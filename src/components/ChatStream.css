@@ -8,5 +8,8 @@
   - a background color of #e9e9eb
 */
 .chat-stream {
-  flex: 1;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
 }
